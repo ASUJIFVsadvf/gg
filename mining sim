@@ -12,7 +12,7 @@ getgenv().SellThreshold = getgenv().SellThreshold or 25000
 getgenv().Depth         = getgenv().Depth or 405
 
 -- ==== GITHUB AUTO-RELOAD URL (CHANGE THIS!) ====
-local GITHUB_URL = "YOUR_GITHUB_URL_HERE"  -- ← REPLACE THIS
+local GITHUB_URL = "https://raw.githubusercontent.com/ASUJIFVsadvf/gg/refs/heads/main/mining%20sim"  -- ← REPLACE THIS
 
 -- ==== ANTI-IDLE ====
 local vu = game:GetService("VirtualUser")
